@@ -16,7 +16,7 @@ ICT graduate from the Durban University of Technology, building data and machine
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [Module Risk Prediction](https://github.com/neombhele23-blip/dropout-risk-prediction) | Flags persistently difficult university modules from historical cohort data (0.80 accuracy, 0.83 F1), served through a Flask API and dashboard | Python, scikit-learn, Flask, SQLite |
-| Alumni Nexus *(add link)* | Alumni web platform for a 12-person team; I built the authentication and password-reset system | Flask, Flask-Login, SendGrid |
+| [Alumni Nexus](https://github.com/neombhele23-blip/Smart-Agriculture-assistant)| Alumni web platform for a 12-person team; I built the authentication and password-reset system | Flask, Flask-Login, SendGrid |
 | Smart Agriculture Assistant *(add link)* | Android app for farmers; I led the community forum feature | Java/Kotlin, Firestore, Cloudinary |
 
 ### Contact
