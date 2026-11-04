@@ -21,7 +21,7 @@ ICT graduate from the Durban University of Technology, building data and machine
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/neombhele-8829541b7) · neombhele23@gmail.com · Durban, South Africa## Hi there 👋
+[LinkedIn](https://linkedin.com/in/neombhele-8829541b7) · neombhele23@gmail.com · Durban, South Africa
 
 <!--
 **neombhele23-blip/neombhele23-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
