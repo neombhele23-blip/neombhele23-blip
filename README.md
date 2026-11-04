@@ -1,6 +1,6 @@
 ## Hi, I'm Neo Mbhele
 
-ICT graduate from the Durban University of Technology, building data and machine learning systems in Python. I like taking a model all the way from raw data to a working API that someone can actually use.
+3rd-year ICT student from the Durban University of Technology, building data and machine learning systems in Python. I like taking a model all the way from raw data to a working API that someone can actually use, and  passionate about machine learning pipelines.
 
 **Currently looking for:** a junior AI, data analyst or business analyst role (remote or Durban).
 
